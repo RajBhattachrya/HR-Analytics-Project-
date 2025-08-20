@@ -29,8 +29,6 @@ This Power BI dashboard analyzes employee presence patterns across key dimension
 3. Replace sample data with your organization's attendance records (if needed)
 4. Customize visuals or DAX measures to fit your business context
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ About Me
 Created by **RAJ**, a data analytics enthusiast focused on transforming raw HR data into actionable insights. Skilled in SQL, Power BI, and dashboard storytelling.
